@@ -5,3 +5,5 @@ export GOPATH=$HOME/work
 export GOROOT=/usr/local/go/
 export PATH=$GOROOT/bin:$PATH:$GOPATH/bin
 go version
+export SEESAW=$HOME/work/src/github.com/google/seesaw
+
